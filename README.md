@@ -1,2 +1,2 @@
 # kh-academy
-Open EdX plugins
+Open EdX plugins developed by Arfront
